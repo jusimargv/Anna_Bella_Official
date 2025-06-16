@@ -68,8 +68,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Contato
 
 - **Desenvolvedor:** Jusimar G. V.
-- **E-mail:** seuemail@exemplo.com
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/seuperfil)
+- **E-mail:** jusimargv@gmail.com
+- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/jusimar-alves)
 
 ---
 

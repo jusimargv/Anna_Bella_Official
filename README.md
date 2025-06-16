@@ -1,6 +1,6 @@
 # Projeto Anna Bella
 
-![Banner do Projeto Anna Bella](css\image\image.png)
+![Banner do Projeto Anna Bella](css/image/image.png)
 
 Bem-vindo ao repositório do **Projeto Anna Bella**!
 
